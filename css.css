@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: url(./img/MacBook\ -\ 1.png);
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+/*CONTAINER*/
+.container {
+    max-width: 1030px;
+    margin: 60px auto;
+}
+
+/*HEADER*/
+
+a {
+    margin-left: 54px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 83px;
+}
+
+.header-nav__button {
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 57px;
+    padding: 13px 24px;
+    background-color: #FC4754;
+    border-radius: 4px;
+    cursor: pointer;
+   
+}
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*CONTENT-LEFT*/
+
+.content-left__info {
+    
+}
+
+h1 {
+    font-size: 50px;
+    max-width: 487px;
+}
