@@ -62,3 +62,107 @@ h1 {
     font-size: 50px;
     max-width: 487px;
 }
+
+p {
+    font-size: 17px;
+    font-weight: 500;
+    max-width: 354px;
+}
+
+.lft__btn
+{
+    display: flex;
+    
+    
+}
+
+.btn__1 {
+    margin-top: 35px;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 13px 24px;
+    background-color: #FC4754;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn__2 {
+    
+    margin-top: 35px;
+    margin-left: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 13px 24px;
+    border: 2px;
+    border: solid;
+    border-color:rgba(146, 42, 60, 1);
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+/*CONTENT-RIGHT*/
+.content-right__img {
+    float: right;
+}
+ 
+
+.content-right__rectangle_0 {
+    width: 301px;
+    height: 374px;
+    border: 2px solid;
+    border-color: rgb(0, 0, 0); 
+
+    margin-left: 725px;
+
+    
+}
+
+.content-right__rectangle_1 {
+    width: 301px;
+    height: 374px;
+    border: 2px solid;
+    border-color: rgb(0, 0, 0);
+    
+}
+
+.content-right__rectangle_2 {
+    width: 301px;
+    height: 374px;
+    border: 2px solid;
+    border-color: rgb(255, 255, 255);
+    
+}
+/*STATS*/
+
+.content-left__stats {
+    display: flex;
+}
+
+.users__stats {
+    margin-top: 40px;
+    font-size: 28px;
+}
+
+.users__artworks, .users__artists{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 28px;
+}
+
+.users, .artworks, .artists {
+font-size: 15px;
+}
+.artworks {
+    margin-left: 72px;
+}
+.artists {
+    margin-left: 52px;
+}
+
+.users {
+    margin-left: 6px;
+}
+.text-stat {
+    display: flex;
+}
+
