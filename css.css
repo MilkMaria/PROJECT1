@@ -103,7 +103,6 @@ p {
 /*CONTENT-RIGHT*/
 .content-right__img {
     float: right;
-    display: flex;
 }
  
 
