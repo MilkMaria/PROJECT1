@@ -44,7 +44,7 @@ a {
     background-color: #FC4754;
     border-radius: 4px;
     cursor: pointer;
-   
+
 }
 .header-nav {
     display: flex;
@@ -55,7 +55,7 @@ a {
 /*CONTENT-LEFT*/
 
 .content-left__info {
-    
+
 }
 
 h1 {
@@ -72,8 +72,8 @@ p {
 .lft__btn
 {
     display: flex;
-    
-    
+
+
 }
 
 .btn__1 {
@@ -87,7 +87,7 @@ p {
 }
 
 .btn__2 {
-    
+
     margin-top: 35px;
     margin-left: 25px;
     font-size: 16px;
@@ -100,21 +100,23 @@ p {
     cursor: pointer;
 
 }
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
 /*CONTENT-RIGHT*/
 .content-right__img {
     float: right;
 }
- 
+
 
 .content-right__rectangle_0 {
     width: 301px;
     height: 374px;
     border: 2px solid;
-    border-color: rgb(0, 0, 0); 
-
-    margin-left: 725px;
-
-    
+    border-color: rgb(0, 0, 0);
 }
 
 .content-right__rectangle_1 {
@@ -122,7 +124,7 @@ p {
     height: 374px;
     border: 2px solid;
     border-color: rgb(0, 0, 0);
-    
+
 }
 
 .content-right__rectangle_2 {
@@ -130,7 +132,7 @@ p {
     height: 374px;
     border: 2px solid;
     border-color: rgb(255, 255, 255);
-    
+
 }
 /*STATS*/
 
